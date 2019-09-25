@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aesheithei.simongustavsson.tech/sitemap.xml
